@@ -23,9 +23,8 @@
 
 
 ## Introduction
-Portfolio was created to present my skills in Data Science. Below you may find the list of projects and a brief description of business goal and scope for each project.
+Portfolio was created to present my skills in Data. Below you may find the list of projects and a brief description of business goal and scope for each project.
 
-If you have any questions, I can be reached at dawidgroberski@gmail.com.
 
 ## Data Engineering
 
