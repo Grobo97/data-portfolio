@@ -23,9 +23,8 @@
 
 
 ## Wprowadzenie
-Portfolio powstało w celu prezentacji moich umiejętności z zakresu Data Science. Poniżej znajduje się zestawienie projektów i krótki opis ich celu oraz zakresu.
+Portfolio powstało w celu prezentacji moich umiejętności z zakresu Data. Poniżej znajduje się zestawienie projektów i krótki opis ich celu oraz zakresu.
 
-W razie pytań jestem dostępny pod adresem dawidgroberski@gmail.com.
 
 ## Inżynieria danych
 
