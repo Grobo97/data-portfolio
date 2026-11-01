@@ -1,6 +1,6 @@
 
-# Data Science Portfolio
-***[Polska](https://github.com/Grobo97/data-science-portfolio/blob/main/README.md)*** *wersja*  
+# Data Portfolio
+***[Polska](https://github.com/Grobo97/data-portfolio/blob/main/README.md)*** *wersja*  
 
 ---
 
